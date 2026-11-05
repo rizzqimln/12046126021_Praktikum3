@@ -1,5 +1,5 @@
 /*
- *Program   : Kalkulator Sederhana Dengan Menu
+ * Program  : Kalkulator Sederhana Dengan Menu
  * Nama     : Rizzqi Maulana Ilhami
  * NIM      : 12046126021
  * Deskripsi: Switch-case (int) + if else untuk mengecek pembagi apakah = 0
