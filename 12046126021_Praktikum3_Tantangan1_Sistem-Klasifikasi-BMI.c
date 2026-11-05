@@ -1,10 +1,9 @@
 /*
- * Program  : Sistem Klasifikasi BMI
+ *Program  : Sistem Klasifikasi BMI
  * Nama     : Rizzqi Maulana Ilhami
  * NIM      : 12046126021
  * Deskripsi: Penggunaan if dan nested if untuk BMI
  */
-
 #include <stdio.h>
 
 int main() {
